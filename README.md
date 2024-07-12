@@ -1,4 +1,7 @@
-## Hi!
+<p><img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="cover_img"/></p>
+<p align="center">
+</p>
+<h1 align="center">Hi,</h1>
 
 My name is brian. I'm currently a Penultimate Year Computer Science student at NUS as well as a Backend Engineer. Interests include Software Engineering, Database Systems, as well as Computer Networks. Outside of work, I enjoy powerlifting, calisthenics, swimmer at the summer olympics.<br>
 
